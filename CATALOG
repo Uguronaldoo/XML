@@ -1,0 +1,85 @@
+<CATALOG>
+
+  <BOOK>
+    <TITLE>Yandaş</TITLE>
+    <AUTHOR>Veronica Roth</AUTHOR>
+    <ISBN>9786051424521</ISBN>
+    <YEAR>2014</YEAR>
+    <PUBLISHER>Artemis</PUBLISHER>
+  </BOOK>
+  
+  <BOOK>
+    <TITLE>Gölgesizlerin Tutkulu Dansı</TITLE>
+    <AUTHOR>Tess Gerritsen</AUTHOR>
+    <ISBN>9786053480938</ISBN>
+    <YEAR>2013</YEAR>
+    <PUBLISHER>Martı Yayıncılık</PUBLISHER>
+  </BOOK>
+  
+  <BOOK>
+    <TITLE>Lejyonlar</TITLE>
+    <AUTHOR>John Robert</AUTHOR>
+    <ISBN>9780786929146</ISBN>
+    <YEAR>2003</YEAR>
+    <PUBLISHER>Sahil Büyücüleri</PUBLISHER>
+  </BOOK>
+  
+  <BOOK>
+    <TITLE>Ayak İzlerinin Esrarı</TITLE>
+    <AUTHOR>BB Calhoun</AUTHOR>
+    <ISBN>9789754030433</ISBN>
+    <YEAR>2003</YEAR>
+    <PUBLISHER>TUBITAK</PUBLISHER>
+  </BOOK>
+  
+  <BOOK>
+    <TITLE>100 Büyük Roman</TITLE>
+    <AUTHOR>Abraham Lass</AUTHOR>
+    <ISBN>9789751109644</ISBN>
+    <ISBN>9789751109514</ISBN>
+    <ISBN>9789751109651</ISBN>
+    <YEAR>2003</YEAR>
+    <PUBLISHER>MEB</PUBLISHER>
+  </BOOK>
+  
+  <BOOK>
+    <TITLE>Robokıyamet</TITLE>
+    <AUTHOR>Daniel Howard</AUTHOR>
+    <ISBN>9786053434580</ISBN>
+    <YEAR>2015</YEAR>
+    <PUBLISHER>Pegasus Yayınları</PUBLISHER>
+  </BOOK>
+  
+  <BOOK>
+    <TITLE>Boundless Solitude</TITLE>
+    <AUTHOR>Selim İleri</AUTHOR>
+    <ISBN>9781840598568</ISBN>
+    <YEAR>2014</YEAR>
+    <PUBLISHER>Milet Yayınları</PUBLISHER>
+  </BOOK>
+  
+  <BOOK>
+    <TITLE>Şevketmeap</TITLE>
+    <AUTHOR>Ercüment Ekrem Talu</AUTHOR>
+    <ISBN>9786052116562</ISBN>
+    <YEAR>2018</YEAR>
+    <PUBLISHER>Koç Üniversitesi Yayınları</PUBLISHER>
+  </BOOK>
+  
+  <BOOK>
+    <TITLE>Bridget Jones'un Günlüğü</TITLE>
+    <AUTHOR>Helen Fielding</AUTHOR>
+    <ISBN>9786053435969</ISBN>
+    <YEAR>2015</YEAR>
+    <PUBLISHER>Pegasus Yayınları</PUBLISHER>
+  </BOOK>
+  
+  <BOOK>
+    <TITLE>Afrikalı Leo</TITLE>
+    <AUTHOR>Amin Maalouf</AUTHOR>
+    <ISBN>9789753631570</ISBN>
+    <YEAR>1996</YEAR>
+    <PUBLISHER>Yapı Kredi</PUBLISHER>
+  </BOOK>
+  
+</CATALOG>
